@@ -1,0 +1,47 @@
+.main {
+-fx-background-image: url("backImage.jpg");
+}
+
+.button {
+-fx-background-color: #707AE8;
+-fx-background-radius: 20;
+-fx-font-size: 20;
+-fx-text-fill: white;
+-fx-opacity: 0.8;
+}
+
+.button:hover {
+-fx-opacity: 1;
+-fx-cursor: hand;
+}
+
+.combo {
+-fx-background-color: #707AE8;
+-fx-background-radius: 20;
+-fx-font-size: 20;
+-fx-text-fill: white;
+-fx-opacity: 0.8;
+}
+
+.combo:hover {
+-fx-opacity: 1;
+-fx-cursor: hand;
+}
+
+.title {
+-fx-font-size: 36;
+-fx-background-color: #478254;
+-fx-background-radius: 10;
+-fx-text-fill: white;
+-fx-padding: 20px;
+}
+
+.graphs {
+-fx-background-color: white;
+-fx-background-radius: 20px;
+-fx-opacity: 0.9;
+}
+
+.table {
+-fx-opacity: 0.9;
+}
